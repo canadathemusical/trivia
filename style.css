@@ -1,0 +1,36 @@
+* {
+  font-family: 'Cuprum', sans-serif;
+}
+
+.topArea{
+  text-align:center;
+  background-color:white;
+  opacity: .8;
+  font-size: 30px;
+  font-color:black;
+  border: #000000;
+  
+}
+
+#banner{
+  font-family: 'Cuprum', sans-serif;
+  max-width: 100%;
+  align:center;
+  display: block;
+  margin: 0 auto;
+}
+
+body
+{
+   background-image: url("https://awesomewallpapers.files.wordpress.com/2015/08/3d_fantasy_places_hd_-0027.jpg");
+   max-width: 100%;
+   display: block;
+  margin: 0 auto;
+}
+h1 {
+  color: #000000;
+}
+#timerArea {
+  color: #000000;
+  font-size: 25px;
+}
