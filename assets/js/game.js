@@ -1,3 +1,5 @@
+//Test comment!!!!!!! --- 
+
 $(document).ready(function(){
   $("#banner").append("<img id='banner' src = 'assets/images/149016006714110.png'>")
 
