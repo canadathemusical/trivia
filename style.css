@@ -34,3 +34,10 @@ h1 {
   color: #000000;
   font-size: 25px;
 }
+
+#timer-area {
+  color: #000000;
+     margin-left: 33%;
+     margin-top: 10px;
+  }
+
